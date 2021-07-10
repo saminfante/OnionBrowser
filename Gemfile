@@ -5,4 +5,4 @@ gem 'activesupport'
 gem "cocoapods", '>= 1.8.4'
 
 
-gem "fastlane"
+gem "fastlane", ">= 2.137.0"
