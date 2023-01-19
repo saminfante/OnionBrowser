@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
 gem "plist"
-gem 'activesupport'
-gem "cocoapods", '>= 1.8.4'
+gem 'activesupport', '>= 6.1.7.1'
+gem "cocoapods", ">= 1.11.0"
 
 
 gem "fastlane"
